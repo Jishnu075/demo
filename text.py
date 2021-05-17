@@ -1,5 +1,5 @@
 #A script for eng-mal translation
-
+# using google_trans
 from google_trans_new import google_translator  
 import time
 
