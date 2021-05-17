@@ -1,3 +1,5 @@
+#A script for eng-mal translation
+
 from google_trans_new import google_translator  
 import time
 
